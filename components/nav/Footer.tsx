@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import router from "next/router";
+// import router from "next/router";
 
 // import { logoutAccount } from "@/lib/actions/user.actions";
 
