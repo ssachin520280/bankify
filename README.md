@@ -1,6 +1,6 @@
 # Bankify
 
-<a name="live-demo" href="">🌐 Live Demo</a>
+<a name="live-demo" href="https://bankify-topaz.vercel.app">🌐 Live Demo</a>
 
 ## 📋 Table of Contents
 
@@ -8,7 +8,6 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🌐 [Live Demo](#live-demo)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -18,6 +17,8 @@
 
 - Next.js
 - Tailwind CSS
+- ShadCN
+- chart.js
 - Dwolla
 - Appwrite
 - Plaid
